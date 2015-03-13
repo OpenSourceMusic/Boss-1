@@ -1,7 +1,7 @@
 # Boss-1
 Genre - Chiptune
 
-[Youtube Link](https://www.youtube.com/watch?v=7T-oA8iRNTE&feature=youtu.be)
+[Youtube Link](https://www.youtube.com/watch?v=ixDkh1KCyrM&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=4)
 
 Current Song Version: 1.0
 
